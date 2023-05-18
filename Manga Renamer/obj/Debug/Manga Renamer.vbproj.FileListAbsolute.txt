@@ -1,0 +1,40 @@
+C:\Users\Master Computer\documents\visual studio 2015\Projects\Manga Renamer\Manga Renamer\bin\Debug\Resources\Manga Renamer.ico
+C:\Users\Master Computer\documents\visual studio 2015\Projects\Manga Renamer\Manga Renamer\bin\Debug\Manga Renamer.exe.config
+C:\Users\Master Computer\documents\visual studio 2015\Projects\Manga Renamer\Manga Renamer\bin\Debug\Manga Renamer.exe
+C:\Users\Master Computer\documents\visual studio 2015\Projects\Manga Renamer\Manga Renamer\bin\Debug\Manga Renamer.pdb
+C:\Users\Master Computer\documents\visual studio 2015\Projects\Manga Renamer\Manga Renamer\bin\Debug\Manga Renamer.xml
+C:\Users\Master Computer\documents\visual studio 2015\Projects\Manga Renamer\Manga Renamer\obj\Debug\Manga Renamer.vbprojResolveAssemblyReference.cache
+C:\Users\Master Computer\documents\visual studio 2015\Projects\Manga Renamer\Manga Renamer\obj\Debug\Manga_Renamer.ExceptionBox.resources
+C:\Users\Master Computer\documents\visual studio 2015\Projects\Manga Renamer\Manga Renamer\obj\Debug\Manga_Renamer.MainWindow.resources
+C:\Users\Master Computer\documents\visual studio 2015\Projects\Manga Renamer\Manga Renamer\obj\Debug\Manga_Renamer.Resources.resources
+C:\Users\Master Computer\documents\visual studio 2015\Projects\Manga Renamer\Manga Renamer\obj\Debug\Manga Renamer.vbproj.GenerateResource.Cache
+C:\Users\Master Computer\documents\visual studio 2015\Projects\Manga Renamer\Manga Renamer\obj\Debug\Manga Renamer.exe
+C:\Users\Master Computer\documents\visual studio 2015\Projects\Manga Renamer\Manga Renamer\obj\Debug\Manga Renamer.xml
+C:\Users\Master Computer\documents\visual studio 2015\Projects\Manga Renamer\Manga Renamer\obj\Debug\Manga Renamer.pdb
+F:\Custom\Applications\Manga Renamer\Backup\01-07-2016_21-45-25\Manga Renamer\bin\Debug\Manga Renamer.exe.config
+F:\Custom\Applications\Manga Renamer\Backup\01-07-2016_21-45-25\Manga Renamer\obj\Debug\Manga Renamer.exe
+F:\Custom\Applications\Manga Renamer\Backup\01-07-2016_21-45-25\Manga Renamer\obj\Debug\Manga Renamer.xml
+F:\Custom\Applications\Manga Renamer\Backup\01-07-2016_21-45-25\Manga Renamer\obj\Debug\Manga Renamer.pdb
+F:\Custom\Applications\Manga Renamer\Backup\01-07-2016_21-45-25\Manga Renamer\bin\Debug\Resources\Manga Renamer.ico
+F:\Custom\Applications\Manga Renamer\Backup\01-07-2016_21-45-25\Manga Renamer\bin\Debug\Manga Renamer.exe
+F:\Custom\Applications\Manga Renamer\Backup\01-07-2016_21-45-25\Manga Renamer\bin\Debug\Manga Renamer.pdb
+F:\Custom\Applications\Manga Renamer\Backup\01-07-2016_21-45-25\Manga Renamer\bin\Debug\Manga Renamer.xml
+F:\Custom\Applications\Manga Renamer\Backup\01-07-2016_21-45-25\Manga Renamer\obj\Debug\Manga Renamer.vbprojResolveAssemblyReference.cache
+F:\Custom\Applications\Manga Renamer\Backup\01-07-2016_21-45-25\Manga Renamer\obj\Debug\Manga_Renamer.ExceptionBox.resources
+F:\Custom\Applications\Manga Renamer\Backup\01-07-2016_21-45-25\Manga Renamer\obj\Debug\Manga_Renamer.MainWindow.resources
+F:\Custom\Applications\Manga Renamer\Backup\01-07-2016_21-45-25\Manga Renamer\obj\Debug\Manga_Renamer.Resources.resources
+F:\Custom\Applications\Manga Renamer\Backup\01-07-2016_21-45-25\Manga Renamer\obj\Debug\Manga Renamer.vbproj.GenerateResource.Cache
+F:\Custom\Applications\Manga Renamer\Manga Renamer\Manga Renamer\bin\Debug\Resources\Manga Renamer.ico
+F:\Custom\Applications\Manga Renamer\Manga Renamer\Manga Renamer\bin\Debug\Manga Renamer.exe.config
+F:\Custom\Applications\Manga Renamer\Manga Renamer\Manga Renamer\bin\Debug\Manga Renamer.exe
+F:\Custom\Applications\Manga Renamer\Manga Renamer\Manga Renamer\bin\Debug\Manga Renamer.pdb
+F:\Custom\Applications\Manga Renamer\Manga Renamer\Manga Renamer\bin\Debug\Manga Renamer.xml
+F:\Custom\Applications\Manga Renamer\Manga Renamer\Manga Renamer\obj\Debug\Manga Renamer.vbprojAssemblyReference.cache
+F:\Custom\Applications\Manga Renamer\Manga Renamer\Manga Renamer\obj\Debug\Manga_Renamer.ExceptionBox.resources
+F:\Custom\Applications\Manga Renamer\Manga Renamer\Manga Renamer\obj\Debug\Manga_Renamer.MainWindow.resources
+F:\Custom\Applications\Manga Renamer\Manga Renamer\Manga Renamer\obj\Debug\Manga_Renamer.Resources.resources
+F:\Custom\Applications\Manga Renamer\Manga Renamer\Manga Renamer\obj\Debug\Manga Renamer.vbproj.GenerateResource.cache
+F:\Custom\Applications\Manga Renamer\Manga Renamer\Manga Renamer\obj\Debug\Manga Renamer.vbproj.CoreCompileInputs.cache
+F:\Custom\Applications\Manga Renamer\Manga Renamer\Manga Renamer\obj\Debug\Manga Renamer.exe
+F:\Custom\Applications\Manga Renamer\Manga Renamer\Manga Renamer\obj\Debug\Manga Renamer.xml
+F:\Custom\Applications\Manga Renamer\Manga Renamer\Manga Renamer\obj\Debug\Manga Renamer.pdb
